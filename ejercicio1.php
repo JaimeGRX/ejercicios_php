@@ -45,11 +45,7 @@
 		echo ("Falta algún dato, por favor revíselo.");
 		}
 
-
 ?>
-
-
-
 
 </body>
 </html>
